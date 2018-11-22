@@ -1,0 +1,11 @@
+D:\Projets\SIA\VSCode\bin\Release\netcoreapp2.1\VSCode.deps.json
+D:\Projets\SIA\VSCode\bin\Release\netcoreapp2.1\VSCode.runtimeconfig.json
+D:\Projets\SIA\VSCode\bin\Release\netcoreapp2.1\VSCode.runtimeconfig.dev.json
+D:\Projets\SIA\VSCode\bin\Release\netcoreapp2.1\VSCode.dll
+D:\Projets\SIA\VSCode\bin\Release\netcoreapp2.1\VSCode.pdb
+D:\Projets\SIA\VSCode\obj\Release\netcoreapp2.1\VSCode.csprojAssemblyReference.cache
+D:\Projets\SIA\VSCode\obj\Release\netcoreapp2.1\VSCode.csproj.CoreCompileInputs.cache
+D:\Projets\SIA\VSCode\obj\Release\netcoreapp2.1\VSCode.AssemblyInfoInputs.cache
+D:\Projets\SIA\VSCode\obj\Release\netcoreapp2.1\VSCode.AssemblyInfo.cs
+D:\Projets\SIA\VSCode\obj\Release\netcoreapp2.1\VSCode.dll
+D:\Projets\SIA\VSCode\obj\Release\netcoreapp2.1\VSCode.pdb
